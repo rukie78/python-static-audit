@@ -1,3 +1,5 @@
+![Audit Status](https://github.com/rukie78/python-static-audit/actions/workflows/static_audit.yml/badge.svg)
+
 # 🛡️ Audit Static pentru Proiecte Python
 
 Acest script efectuează un **audit static de bază** asupra unui proiect Python, folosind unelte populare pentru analiza codului, verificări de securitate și evaluarea mentenabilității.
